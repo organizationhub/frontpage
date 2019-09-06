@@ -8,4 +8,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 (how to link this picture here??)
 
-[front_picture]: ./2017-03-25 19.58.33.jpg
+[front_picture]: https://github.com/organizationhub/frontpage/blob/master/2017-03-25%2019.58.33.jpg
