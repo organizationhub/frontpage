@@ -8,6 +8,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ![testing]({{site.baseurl}}/2016-02-09 14.38.17.jpg)
 
 
+1. one
+1. two
 
 (how to link this picture here??)
 
